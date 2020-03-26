@@ -8,6 +8,13 @@ The PoX group is working through developments in Blockstack's breakthrough, prop
 - **Learn about Proof of Transfer:** Read the [*Proof of Transfer Mining with Bitcoin*](https://blockstack.org/pox.pdf) whitepaper.
 - **Understand Potential Applications of PoX:** Check out the Stacks Improvement Proposal [(SIP) 007](https://github.com/blockstack/blockstack-core/blob/develop/sip/sip-007-stacking-consensus.md).
 - **Follow the Discussion:** Go through the Blockstack [Forum post](https://forum.blockstack.org/t/stacking-a-new-consensus-algorithm-for-blockchains/10162).
+- **Follow Calls**
+
+[Delagation Call](https://zoom.us/rec/play/vsYkJruqpjo3H4DH4wSDBKB-W421K_-s1XQe-aUKmk7gViECM1r1NbBBNrN28E1zRRUZTpMlYN1G7rL-?continueMode=true&_x_zm_rtaid=j9ny02QwSHyzbPMWLHx_DA.1585201401185.914a4ef670f58f35e11005b183906a9c&_x_zm_rhtaid=232)
+
+[Test Net Stacks v2 Phases Call](https://zoom.us/rec/play/vJQrf-utqG43SdKQtQSDBvR7W9W7K6msgCJNqPNYzB7hUyFWZAKlYbZAZ-u9W_S0tnV4RPqt4viW256g?continueMode=true&_x_zm_rtaid=j9ny02QwSHyzbPMWLHx_DA.1585201401185.914a4ef670f58f35e11005b183906a9c&_x_zm_rhtaid=232)
+
+[Test Net Incentives Call prt1](https://zoom.us/rec/play/7pMsf-uprzo3HNHBtASDBacvW421Lfqs1CNPq_YLzE-1UCVSMVOmYeYbMec72xP5FqHCDrwzrNO2idcY?continueMode=true&_x_zm_rtaid=fHiJjYfmR_GfAnO51ek1Mg.1585211485706.a8d6e8817f0248de5561871ad2af8d09&_x_zm_rhtaid=332)
 
 ### Get Involved
 
