@@ -1,4 +1,4 @@
-# Stacks 2.0 Testnet Resouces
+# Stacks 2.0 Testnet Community Resouces
 
 A running list of community-generated tools and resources for navigating the Stacks 2.0 public testnet.
 
