@@ -10,3 +10,4 @@ A running list of community-generated tools and resources for navigating the Sta
 - Raspberry Pi image for running a Stacks Node: https://agitated-pare-dfa673.netlify.app/
 - Test STX Transactions: https://speed-spend.netlify.app/
 - Stacks Miner Dashboard Mock Up: https://discordapp.com/channels/621759717756370964/691807526118883418/705815477150023781
+- Bash script to setup a miner on Ubuntu Server: https://github.com/AbsorbingChaos/bks-setup-miner/
